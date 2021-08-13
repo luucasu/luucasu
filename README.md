@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas Barros
 - 👀 I’m interested in Reservoir Simulation
 - 🌱 I’m currently learning Numerical Methods and Reservoir Simulation subjects
-- 💞️ I’m looking to collaborate on reserrvoir simulators.
+- 💞️ I’m looking to collaborate on reservoir simulators.
 - 📫 Contact: https://www.linkedin.com/in/lucas-b-lima/
 
 <!---
